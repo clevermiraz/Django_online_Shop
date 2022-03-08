@@ -3,3 +3,11 @@
 media
 
 db.sqlite3
+
+cart/__pycache__
+cart/migrations
+
+myshop/__pycache__
+
+shop/__pycache__
+shop/migrations
